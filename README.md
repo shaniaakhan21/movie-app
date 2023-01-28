@@ -1,12 +1,3 @@
-# Clever Movie Full Stack App
-This is a project from a Clever Programmer's course.
-
-## Contents
-
-1. [Initial Setup Instructions](#initial-setup-instructions)
-1. [Running Server](#running-server)
-
-
 ## Initial Setup Instructions
 
 ### Setup Python Virtual Environment
